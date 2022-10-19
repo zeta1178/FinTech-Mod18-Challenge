@@ -1,4 +1,6 @@
 # FinTech-Mod18-Challenge
 FinTech-Mod18-Challenge
 
-![StreamLit App](assets/Output.jpg)
+![Verify](assets/Verify.jpg)
+
+![Validity](assets/Validity.jpg)
